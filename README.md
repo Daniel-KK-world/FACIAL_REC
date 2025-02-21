@@ -58,7 +58,7 @@ And a jupyter notebook in a VS code environment.
 
 ## References
 
-This project is based on the research paper: **[Title of the Paper]**. You can read more about it [here](link-to-paper).
+This project is based on the research paper: **Siamese Neural Networks for One-shot Image Recognition**. You can read more about it [here](link-to-paper).
 
 ## License
 
