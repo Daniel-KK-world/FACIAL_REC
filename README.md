@@ -1,4 +1,4 @@
-# Facial Recognition Using Siamese Networks
+# One Shot Facial Recognition Using Siamese Networks
 
 ## Overview
 
