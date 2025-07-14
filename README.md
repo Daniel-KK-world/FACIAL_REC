@@ -37,13 +37,6 @@ The Siamese Network consists of:
 - **Metrics**: Accuracy and distance-based thresholding
 - **Validation**: Tested on unseen images to evaluate generalization
 
-## Installation
-
-Seeing as I only shared the notebook I don't know yet but feel free to clone and 
-then apply the code to your own images  or dataser or whatever. 
-
-
-
 ##Resources used include 
 The labelled faces in the wild dataset. 
 tensorflow and keras of course 
